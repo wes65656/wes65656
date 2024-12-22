@@ -18,14 +18,15 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 #
 
-<img align="right" alt="" height="190px" src="./src/crazy2.gif">
+<img align="right" alt="" height="197px" src="./src/crazy.gif">
+<img align="right" alt="" height="197px" src="./src/crazy.gif">
 
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=800080&color=FFF)](mailto:Wees337@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=800080&color=FFF)](https://www.linkedin.com/in/weslley-valerio-backend/)
 
-<h3 align="left">My Stack ~</h3>
+<h3 align="left">My knowledgement and Tools~</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="csharp logo" />
@@ -39,6 +40,8 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="25" alt="swagger logo" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="25" alt="azure logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" height="25" alt="rider logo" />
 </div>
 
 #
