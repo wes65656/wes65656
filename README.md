@@ -13,7 +13,10 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 #
 
 <p align="center">
-  Sou estudante de Ciências da Computação na Faculdade Descomplica EAD e tenho uma paixão por explorar o mundo da tecnologia. Atualmente, trabalho com C# e estou mergulhando em livros para expandir ainda mais meus conhecimentos. A cada desafio que encontro, busco aprender mais e aplicar soluções criativas que tornem o mundo mais conectado e eficiente.
+  Sou estudante de Ciências da Computação na Faculdade Descomplica EAD e tenho uma paixão por explorar o mundo da tecnologia.
+   Atualmente, trabalho com C# e estou mergulhando em livros para expandir ainda mais meus conhecimentos.
+  <p align="center">
+  A cada desafio que encontro, busco aprender mais e aplicar soluções criativas que tornem o mundo mais conectado e eficiente.
 </p>
 
 #
