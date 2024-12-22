@@ -33,7 +33,6 @@ Uma aplicação backend desenvolvida em C# e containerizada com Docker. O sistem
 
 ## 📫 Contato
 
-- GitHub: [Perfil GitHub](https://github.com/wes65656)
 - LinkedIn: [Weslley Valério](https://www.linkedin.com/in/weslley-valerio-backend/)
 - Email: [Wees337@gmail.com](mailto:Wees337@gmail.com)
 
