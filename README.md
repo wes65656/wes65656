@@ -18,7 +18,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 #
 
-<img align="right" alt="" height="190px" src="./src/crazy.gif">
+<img align="right" alt="" height="190px" src="./src/crazy2.gif">
 
 <h3 align="left">Connect with me!</h3>
 
