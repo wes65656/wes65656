@@ -8,7 +8,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
   </a>
 </div>
 
-<img align="center" alt="" src="./src/header.gif">
+<img align="center" alt="" src="./src/header.gif" style="max-width: 100%; height: auto;">
 
 #
 
@@ -21,8 +21,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 #
 
-<img align="right" alt="" height="197px" src="./src/crazy.gif">
-<img align="right" alt="" height="197px" src="./src/crazy.gif">
+<img align="right" alt="" height="197px" src="./src/crazy.gif" style="max-width: 100%; height: auto;">
 
 <h3 align="left">Connect with me!</h3>
 
@@ -50,7 +49,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 #
 
 <div align="center">
-  <h3>* GitHub Stats *</h3>
+  <h3> GitHub Stats </h3>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=wes65656&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=800080&text_color=FFF&border_radius=3&border_color=36123c&icon_color=800080&theme=jolly" alt="GitHub stats">
 
@@ -62,6 +61,5 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wes65656/wes65656/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wes65656/wes65656/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wes65656/wes65656/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wes65656/wes65656/output/github-contribution-grid-snake.svg" style="max-width: 100%; height: auto;">
 </picture>
-</div>
