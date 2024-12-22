@@ -2,47 +2,60 @@
 
 Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios. Aqui você encontrará alguns dos projetos nos quais trabalhei e as tecnologias que utilizei.
 
-## 🚀 Tecnologias e Ferramentas
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=800080&center=true&vCenter=true&width=524&lines=%E2%8A%B9+Bem-vindo+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
-**Linguagens de Programação:**
+<img align="center" alt="" src="./src/header.gif">
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+#
 
-**Ferramentas e Tecnologias:**
+<p align="center">
+  Sou estudante de Ciências da Computação na Descomplica. Atualmente, trabalho com desenvolvimento backend utilizando C# e Docker. Estou constantemente atualizando meus conhecimentos em várias tecnologias, incluindo .NET, Entity Framework, SQL Server, Swagger, FluentValidation, Dapper, MediatR e Rider. Minha paixão é aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+</p>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
-![FluentValidation](https://img.shields.io/badge/FluentValidation-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Dapper](https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MediatR](https://img.shields.io/badge/MediatR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white)
+#
 
-## 💼 Projetos em Destaque
+<img align="right" alt="" height="190px" src="./src/crazy.gif">
 
-### [nibbler-backend](https://github.com/estartandodevs-course/nibbler-backend)
-Uma aplicação backend desenvolvida em C# e containerizada com Docker. O sistema é um diário pessoal digital com gerenciamento de anotações, desenvolvido em .NET 8.0.
-### [Apresentação do Nibbler](https://www.youtube.com/watch?v=6zsWww1SQeQ&t=7802s) 
- A apresentação começa em 2:10:02.
+<h3 align="left">Connect with me!</h3>
 
-## 📊 Gráfico de Linguagens Utilizadas
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=800080&color=FFF)](mailto:Wees337@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=800080&color=FFF)](https://www.linkedin.com/in/weslley-valerio-backend/)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=wes65656&layout=compact)
+<h3 align="left">My Stack ~</h3>
 
-## 📫 Contato
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="csharp logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="25" alt=".net logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="25" alt="microsoft sql server logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="25" alt="swagger logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="25" alt="azure logo" />
+</div>
 
-- LinkedIn: [Weslley Valério](https://www.linkedin.com/in/weslley-valerio-backend/)
-- Email: [Wees337@gmail.com](mailto:Wees337@gmail.com)
+#
 
----
+<div align="center">
+  <h3>* GitHub Stats *</h3>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=wes65656&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=800080&text_color=FFF&border_radius=3&border_color=36123c&icon_color=800080&theme=jolly" alt="GitHub stats">
 
-Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e contribuir com os projetos. Qualquer dúvida, sinta-se livre para entrar em contato.
-
+  <a href="https://github.com/wes65656/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wes65656&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=800080&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+  </a>
+</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wes65656/wes65656/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wes65656/wes65656/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wes65656/wes65656/output/github-contribution-grid-snake.svg">
 </picture>
+</div>
