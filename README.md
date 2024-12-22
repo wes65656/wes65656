@@ -13,7 +13,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 #
 
 <p align="center">
-  Sou estudante de Ciências da Computação na Descomplica. Atualmente, trabalho com desenvolvimento backend utilizando C# e Docker. Estou constantemente atualizando meus conhecimentos em várias tecnologias, incluindo .NET, Entity Framework, SQL Server, Swagger, FluentValidation, Dapper, MediatR e Rider. Minha paixão é aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+  Sou estudante de Ciências da Computação na Faculdade Descomplica EAD e tenho uma paixão por explorar o mundo da tecnologia. Atualmente, trabalho com C# e estou mergulhando em livros para expandir ainda mais meus conhecimentos. A cada desafio que encontro, busco aprender mais e aplicar soluções criativas que tornem o mundo mais conectado e eficiente.
 </p>
 
 #
